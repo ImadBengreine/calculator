@@ -1,4 +1,4 @@
-# 🧮 Modern Calculator
+# 🧮 Calculator
 
 A beautiful, responsive calculator built with vanilla HTML, CSS, and JavaScript. Features a modern glassmorphism design with smooth animations and full keyboard support.
 
