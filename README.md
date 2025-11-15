@@ -93,5 +93,5 @@ Check out the [Color Palette Ideas](#color-palette-ideas) section below for insp
 - Background: `linear-gradient(135deg, #1e1e1e 0%, #2d2d2d 100%)`
 - Operators: `linear-gradient(145deg, #bb86fc, #9965f4)`
 
-- **Built as a learning project for web development fundamentals**
-Made with ❤️
+⭐**Built as a learning project for web development fundamentals**⭐
+**Made with ❤️**
