@@ -16,7 +16,7 @@ A beautiful, responsive calculator built with vanilla HTML, CSS, and JavaScript.
 
 ## 🚀 Demo
 
-Check out the live demo: [https://yourusername.github.io/calculator](https://yourusername.github.io/calculator)
+Check out the live demo: [https://imadbengreine.github.io/calculator/](https://imadbengreine.github.io/calculator/)
 
 ## 🎮 How to Use
 
